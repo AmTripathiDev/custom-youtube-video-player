@@ -1,16 +1,43 @@
-1) Work On Full Screen And Mini Screen 
-2) Check Everything
-3) Refractor Code 
-4) Make Build
-5) understand the code 
-6) setting Part I have To fix 
-7) Skip Part 
-8) Fix timeline label 
 
-// export default App;
-// WHat We Need to customizable
-// All Buttons -> only styling not movement
-// and User can Remove Buttons
-// User Can Edit Buttons
-// Adding TimeStamp -> If TimeStamp Want -> then Pass True and Pass a Array Of timeStamp
-// Want Subtitle
+
+# Youtube Video Player 
+
+This project is a React-based video player packed with useful features. You can control playback speed, skip ahead, and switch between full-screen and mini-screen modes. It even supports picture-in-picture mode for multitasking. The timeline is interactive, letting you jump to different parts of the video easily. Plus, you can divide the timeline into segments for better organization. It's a versatile tool for building custom video player solutions.
+
+
+
+
+## Overview
+
+Description:
+
+This project is an interactive video player built with React, offering a range of advanced features for an enhanced viewing experience.
+
+Key Features:
+
+**Control Video**: Playback : Users can play, pause, and adjust the speed of the video playback.
+
+**Skip Functionality**: Seamlessly skip forward or backward by 5 seconds for quick navigation.
+
+**Full Screen & Mini Screen Modes**: Switch between full-screen and mini-screen modes for flexible viewing options.
+
+**Picture-in-Picture Mode**: Enable picture-in-picture mode for multitasking while watching videos.
+
+**Timeline Navigation**: A dynamic timeline allows users to navigate through the video content easily.
+
+**Segment Integration**: Users can pass a segment array containing labels, start times, and end times to segment the timeline for better organization and navigation.
+
+## Prerequisites
+
+- NodeJs and npm installed 
+
+
+## Installation
+
+Clone this Repository
+
+```bash
+  git clone https://github.com/AmTripathiDev/custom-youtube-video-player.git
+  npm start
+```
+    
