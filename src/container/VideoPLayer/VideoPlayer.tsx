@@ -70,7 +70,6 @@ const VideoContainer: React.FC = () => {
 
   useEffect(() => {
     document.addEventListener("keydown", handleKeyEvents);
-    
   }, []);
 
   return (
