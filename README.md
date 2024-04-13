@@ -5,6 +5,7 @@
 This project is a React-based video player packed with useful features. You can control playback speed, skip ahead, and switch between full-screen and mini-screen modes. It even supports picture-in-picture mode for multitasking. The timeline is interactive, letting you jump to different parts of the video easily. Plus, you can divide the timeline into segments for better organization. It's a versatile tool for building custom video player solutions.
 
 
+![alt text](https://github.com/AmTripathiDev/custom-youtube-video-player/blob/master/public/custom-youtube-player.png) 
 
 
 ## Overview
